@@ -32,8 +32,8 @@ To set up this project, follow these steps:
 3. After execution, the generated speech will be saved as `output_speech.mp3`.
 
 ## API Keys
-- Obtain your Deepgram API key from Deepgram's website: [Get it here.](https://developers.deepgram.com/reference/deepgram-api-overview).
-- Obtain your Eleven Labs API key from Eleven Labs' website: [Get it here.](https://elevenlabs.io/docs/api-reference/text-to-speech).
+- Obtain your Deepgram API key from Deepgram's website: [Get it here](https://developers.deepgram.com/reference/deepgram-api-overview).
+- Obtain your Eleven Labs API key from Eleven Labs' website: [Get it here](https://elevenlabs.io/docs/api-reference/text-to-speech).
 
 ## License
 
